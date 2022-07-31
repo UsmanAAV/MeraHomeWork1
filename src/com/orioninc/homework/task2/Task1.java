@@ -11,7 +11,6 @@ public class Task1 {
 
     public static void main(String[] args) {
         final int arraySize = 10;
-
         RandomArray array = new RandomArray(arraySize);
 
         System.out.println("array: " + array);

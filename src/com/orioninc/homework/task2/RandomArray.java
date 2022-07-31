@@ -46,4 +46,8 @@ public class RandomArray {
     int getMinElementIndex() {
         return minIndex;
     }
+
+    int[] getArray() {
+        return array;
+    }
 }
