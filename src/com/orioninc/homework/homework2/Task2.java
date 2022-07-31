@@ -1,4 +1,4 @@
-package com.orioninc.homework.task2;
+package com.orioninc.homework.homework2;
 
 //Задание 2. Случайности расходятся
 //        - Создать массив на 5 элементов типа int и вывести на экран

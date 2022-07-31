@@ -1,4 +1,4 @@
-package com.orioninc.homework.task2;
+package com.orioninc.homework.homework2;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package com.orioninc.homework.task2;
+package com.orioninc.homework.homework2;
 
 //Задание 1. Случайности складываются
 //        - Создать массив на 10 чисел типа int
